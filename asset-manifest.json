@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Temperature-sensor/static/css/main.c7e2000e.css",
+    "main.js": "/Temperature-sensor/static/js/main.17c13c24.js",
+    "static/js/453.f53292f2.chunk.js": "/Temperature-sensor/static/js/453.f53292f2.chunk.js",
+    "index.html": "/Temperature-sensor/index.html",
+    "main.c7e2000e.css.map": "/Temperature-sensor/static/css/main.c7e2000e.css.map",
+    "main.17c13c24.js.map": "/Temperature-sensor/static/js/main.17c13c24.js.map",
+    "453.f53292f2.chunk.js.map": "/Temperature-sensor/static/js/453.f53292f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7e2000e.css",
+    "static/js/main.17c13c24.js"
+  ]
+}
